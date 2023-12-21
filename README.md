@@ -49,8 +49,8 @@ cat decrypted_encrypted_teste.txt
 ```
 
 ## Bibliotecas
-- <random>
-- <sys>
+- random
+- sys
 
 
 
